@@ -21,8 +21,7 @@ This project is a simple and clean portfolio website built using HTML and basic 
 ├── index.html        (Home page)
 ├── contact.html      (Contact page)
 └── style.css         (Stylesheet)
-How to View:
-  git clone <link>
+
 
 !!!Thank you for taking the time to visit!
 
